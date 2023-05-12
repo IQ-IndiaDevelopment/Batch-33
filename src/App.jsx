@@ -5,6 +5,7 @@ function App() {
     <>
       <nav>TODO LIST</nav>
       <p>New change</p>
+      <p>my content</p>
       <TodoList />
     </>
   );
