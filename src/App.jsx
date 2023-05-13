@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <nav>TODO LIST</nav>
+      <p>Hello World</p>
       <TodoList />
     </>
   );
