@@ -1,11 +1,8 @@
-import TodoList from "./components/TodoList";
+import Productcart from "./productcart/productcart";
 
 function App() {
   return (
-    <>
-      <nav>TODO LIST</nav>
-      <TodoList />
-    </>
+  <Productcart/>
   );
 }
 
